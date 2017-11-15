@@ -1,0 +1,39 @@
+#header {
+	background-color: red;
+	color: white;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 20px;
+	font-family: "Times New Roman";
+}
+
+
+label {
+	font-size: 20px;
+}
+
+#show {
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#netflixSearch {
+	margin: 0 auto;
+	text-align: center;
+	font-family: "Times";
+}
+
+#gifArea {
+	clear: both;
+	display: inline;
+	flex-wrap: wrap;
+}
+
+
+#logo{
+	font-family: "Graphique-AR";
+	color: white;
+	text-shadow: 4px 4px black;
+}
